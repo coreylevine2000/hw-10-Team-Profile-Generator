@@ -23,7 +23,7 @@ Some of the main features in this app are:
 ## Credits:
 This application was created by Corey Levine, and can be found here:
 
-* github.com/coreylevine2000/hw-10-team-profile-generator
+* https://github.com/coreylevine2000/hw-10-Team-Profile-Generator
 
 
 ## Licence:
