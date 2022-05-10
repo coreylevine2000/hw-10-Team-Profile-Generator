@@ -69,7 +69,7 @@ const questions = [
   //Inquirer init
   const init = () => inquirer
     .prompt(questions)
-    //Role selected creates new object specific to role
+  //Element for position
     .then(createTeam);
   
   
