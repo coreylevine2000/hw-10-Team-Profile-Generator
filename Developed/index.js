@@ -1,3 +1,5 @@
+//Main file
+
 //Require consts
 const inquirer = require("inquirer");
 const fs = require("fs");
@@ -102,7 +104,7 @@ const questions = [
     if (response.add === "Yes") {
       init();
     } else {
-      console.log("Finished");
+      console.log("Thank you for your input.");
     }
     fs.writeFile(outputPath, render(employees), function (err) {
       if (err) {
