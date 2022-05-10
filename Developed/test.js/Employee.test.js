@@ -46,3 +46,5 @@ test("getRole() should return \"Employee\"", () => {
   const e = new Employee("AAA", 1, "test@test.com");
   expect(e.getRole()).toBe(testValue);
 });
+
+//Pass

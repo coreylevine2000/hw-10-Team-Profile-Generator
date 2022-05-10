@@ -1,0 +1,23 @@
+{
+  "name": "hw-10-team-profile-generator",
+  "version": "1.0.0",
+  "description": "HW 10 Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreylevine2000/hw-10-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreylevine2000/hw-10-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/coreylevine2000/hw-10-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
