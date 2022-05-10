@@ -10,6 +10,7 @@ Table of Contents:
 - [Features](#features)
 - [Credits](#credits)
 - [License](#license)
+- [Video](#video)
 
 ## Installation:
 For the installation of this program, you will be required to installInquirer and Jest.
@@ -28,3 +29,7 @@ This application was created by Corey Levine, and can be found here:
 
 ## Licence:
 This app was made with MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## Video:
+ Link:
