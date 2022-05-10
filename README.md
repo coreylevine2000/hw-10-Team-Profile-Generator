@@ -33,5 +33,11 @@ Special thank you to the Tutors, Family and Dr. Google for helping me!
 This app was made with MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-## Video:
+## Video and IMGs:
  Link: https://vimeo.com/708276903/b18a687866
+
+ 
+![plot](./images/Generated%20Site.PNG)
+![plot](./images/Initial%20question.PNG)
+![plot](./images/Questions%20Complete.PNG)
+![plot](./images/test.PNG)
