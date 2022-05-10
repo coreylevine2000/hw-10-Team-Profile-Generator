@@ -13,4 +13,6 @@ class Manager extends Employee{
     }
 }
 
+// Testing PASSed
+
 module.exports = Manager;

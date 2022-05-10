@@ -12,4 +12,6 @@ class Intern extends Employee {
   }
 }
 
+// Testing PASSed
+
 module.exports = Intern;

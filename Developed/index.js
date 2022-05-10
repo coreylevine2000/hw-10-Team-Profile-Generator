@@ -73,7 +73,7 @@ const questions = [
     .then(createTeam);
   
   
-  //Function that adds all team info to specific employee
+  //Adds all team info to specific employee
   function createTeam(response) {
     let employee;
     if (response.role === "Engineer") {
