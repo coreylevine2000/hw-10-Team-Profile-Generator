@@ -1,7 +1,7 @@
 HW 10 Team Profile Generator
 
 Issue:
-Hello, and thank you for using HW 10 Team Profile Generator. HW 10 Team Profile Generator was created to assist in the issue with creating and managing team members and their roles. This applicaton was created for the primary use by creating a simple spreadsheet to create an html file with members, and their respected levels and rolls.
+Hello, and thank you for using HW 10 Team Profile Generator. HW 10 Team Profile Generator was created to assist in the issue with creating and managing team members and their roles. This applicaton was created for the primary use by creating a simple an html file with members, and their respected levels and rolls.
 
 
 Table of Contents:
@@ -26,10 +26,12 @@ This application was created by Corey Levine, and can be found here:
 
 * https://github.com/coreylevine2000/hw-10-Team-Profile-Generator
 
+Special thank you to the Tutors, Family and Dr. Google for helping me!
+
 
 ## Licence:
 This app was made with MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Video:
- Link:
+ Link: https://vimeo.com/708276903/b18a687866
