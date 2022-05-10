@@ -23,7 +23,7 @@ const questions = [
       type: "list",
       message: "What is your role?",
       name: "role",
-      choices: ["Engineer", "Intern", "Manager"],
+      choices: ["Manager", "Engineer", "Intern"],
     },
     {
       type: "input",
@@ -84,14 +84,14 @@ const questions = [
         response.github
       );
     } else if (response.role === "Intern") {
-      employee = new Manager(
+      employee = new Intern(
         response.name,
         response.id,
         response.email,
         response.school
       );
     } else if (response.role === "Manager") {
-      employee = new Intern(
+      employee = new Manager(
         response.name,
         response.id,
         response.email,
